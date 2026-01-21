@@ -1,0 +1,5 @@
+pandas
+aiogram
+requests
+python-dotenv
+httpx
