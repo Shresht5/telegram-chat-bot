@@ -1,4 +1,3 @@
-pandas
 aiogram
 requests
 python-dotenv

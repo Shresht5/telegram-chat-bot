@@ -2,7 +2,6 @@ import os
 import logging
 from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher,types,filters,html
-import requests
 import sys
 import asyncio
 import httpx
